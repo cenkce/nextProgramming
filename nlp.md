@@ -16,6 +16,7 @@
 
 - https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
 - http://wiki.dbpedia.org/
+- http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/
 
 ### Terms
 
@@ -26,6 +27,6 @@
 
 - https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.v1zwk7gq8
 
-### Tools
+### Datasets
 
-- http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/
+- https://io.datascience-paris-saclay.fr/map.php

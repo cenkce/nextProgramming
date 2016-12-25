@@ -11,6 +11,7 @@
 - https://github.com/NaturalNode/node-nltools
 - https://github.com/superscriptjs/superscript
 - https://github.com/dbpedia/
+- https://opennlp.apache.org/
 
 ### Knowledge Base
 

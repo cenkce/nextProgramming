@@ -14,6 +14,7 @@
 ### Terms
 
 - https://en.wikipedia.org/wiki/N-gram
+- https://en.wikipedia.org/wiki/Turing_completeness
 
 ### Articles
 

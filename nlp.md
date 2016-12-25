@@ -34,6 +34,7 @@
 - https://www.quora.com/What-is-the-best-natural-language-processing-API-library-service-today
 - https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.ta1zrbglk
 - http://nlp.stanford.edu/fsnlp/
+- https://opensource.com/business/15/7/five-open-source-nlp-tools
 
 ### Datasets
 

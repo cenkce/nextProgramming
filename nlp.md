@@ -25,3 +25,7 @@
 ### Articles
 
 - https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.v1zwk7gq8
+
+### Tools
+
+- http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/

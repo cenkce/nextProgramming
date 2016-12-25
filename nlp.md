@@ -29,6 +29,7 @@
 - https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.v1zwk7gq8
 - https://www.quora.com/What-is-the-best-natural-language-processing-API-library-service-today
 - https://medium.com/@rob_ellis/slack-superscript-rise-of-the-bots-bba8506a043c#.ta1zrbglk
+- http://nlp.stanford.edu/fsnlp/
 
 ### Datasets
 

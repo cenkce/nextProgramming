@@ -13,6 +13,10 @@
 - https://github.com/dbpedia/
 - https://opennlp.apache.org/
 
+### Books
+
+- [Natural Language Processing with Python](http://www.nltk.org/book_1ed/)
+
 ### Knowledge Base
 
 - https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki

@@ -14,3 +14,7 @@
 ### Terms
 
 - https://en.wikipedia.org/wiki/N-gram
+
+### Articles
+
+- https://medium.freecodecamp.com/creating-a-chat-bot-42861e6a2acd#.v1zwk7gq8

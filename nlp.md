@@ -13,6 +13,10 @@
 - https://github.com/dbpedia/
 - https://opennlp.apache.org/
 
+### Voice Recognition
+
+- https://github.com/pannous/tensorflow-speech-recognition
+
 ### Books
 
 - [Natural Language Processing with Python](http://www.nltk.org/book_1ed/)

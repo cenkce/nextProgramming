@@ -1,1 +1,2 @@
 - https://github.com/cmusatyalab/openface
+- http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf

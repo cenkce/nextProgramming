@@ -1,3 +1,3 @@
 - https://github.com/cmusatyalab/openface
 - http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf
-- (FaceNet: A Unified Embedding for Face Recognition and Clustering)[http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf]
+- [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf)
